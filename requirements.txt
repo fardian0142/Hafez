@@ -1,6 +1,0 @@
-aiohttp
-aiofiles
-uvloop
-orjson
-pyOpenSSL
-dnspython
